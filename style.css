@@ -861,7 +861,7 @@ background:#0072ff;
 
 .service-hero{
 height:350px;
-background-image:url("ai.png");
+background-image:url("ai.avif");
 background-size:cover;
 background-position:center;
 
@@ -966,7 +966,7 @@ color:#333;
 
 .ai-hero{
 height:400px;
-background-image:url("../Image/ai-bg.jpg");
+background-image:url('');
 background-size:cover;
 background-position:center;
 
@@ -1842,7 +1842,7 @@ body{
   background: linear-gradient(135deg, #00f0ff, #7b2cff);
 
   -webkit-mask: 
-    linear-gradient(#000 0 0) content-box, 
+  linear-gradient(#000 0 0) content-box, 
     linear-gradient(#000 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
